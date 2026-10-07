@@ -3,7 +3,7 @@
 Official macOS and Windows installers for Ginie. This repository contains binaries,
 checksums and support information, with no application source code.
 
-Visit [the Ginie website](https://ginie-web.vercel.app) for downloads and the full
+Visit [the Ginie website](https://ginie-web-eight.vercel.app) for downloads and the full
 first-use guide. Get verified installers from [Releases](https://github.com/tohin003/ginie-releases/releases).
 
 The current distribution is a preview. macOS installers are ad-hoc signed, not
